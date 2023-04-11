@@ -1,0 +1,34 @@
+C:\Users\yeral\source\repos\my Calculadora\bin\Debug\net6.0-windows\my Calculadora.exe
+C:\Users\yeral\source\repos\my Calculadora\bin\Debug\net6.0-windows\my Calculadora.deps.json
+C:\Users\yeral\source\repos\my Calculadora\bin\Debug\net6.0-windows\my Calculadora.runtimeconfig.json
+C:\Users\yeral\source\repos\my Calculadora\bin\Debug\net6.0-windows\my Calculadora.dll
+C:\Users\yeral\source\repos\my Calculadora\bin\Debug\net6.0-windows\my Calculadora.pdb
+C:\Users\yeral\source\repos\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.csproj.AssemblyReference.cache
+C:\Users\yeral\source\repos\my Calculadora\obj\Debug\net6.0-windows\my_Calculadora.Form1.resources
+C:\Users\yeral\source\repos\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.csproj.GenerateResource.cache
+C:\Users\yeral\source\repos\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeral\source\repos\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.AssemblyInfoInputs.cache
+C:\Users\yeral\source\repos\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.AssemblyInfo.cs
+C:\Users\yeral\source\repos\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\yeral\source\repos\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.dll
+C:\Users\yeral\source\repos\my Calculadora\obj\Debug\net6.0-windows\refint\my Calculadora.dll
+C:\Users\yeral\source\repos\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.pdb
+C:\Users\yeral\source\repos\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.genruntimeconfig.cache
+C:\Users\yeral\source\repos\my Calculadora\obj\Debug\net6.0-windows\ref\my Calculadora.dll
+C:\Users\yeral\Desktop\proyectos de winwdos forms\my Calculadora\bin\Debug\net6.0-windows\my Calculadora.exe
+C:\Users\yeral\Desktop\proyectos de winwdos forms\my Calculadora\bin\Debug\net6.0-windows\my Calculadora.deps.json
+C:\Users\yeral\Desktop\proyectos de winwdos forms\my Calculadora\bin\Debug\net6.0-windows\my Calculadora.runtimeconfig.json
+C:\Users\yeral\Desktop\proyectos de winwdos forms\my Calculadora\bin\Debug\net6.0-windows\my Calculadora.dll
+C:\Users\yeral\Desktop\proyectos de winwdos forms\my Calculadora\bin\Debug\net6.0-windows\my Calculadora.pdb
+C:\Users\yeral\Desktop\proyectos de winwdos forms\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.csproj.AssemblyReference.cache
+C:\Users\yeral\Desktop\proyectos de winwdos forms\my Calculadora\obj\Debug\net6.0-windows\my_Calculadora.Form1.resources
+C:\Users\yeral\Desktop\proyectos de winwdos forms\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.csproj.GenerateResource.cache
+C:\Users\yeral\Desktop\proyectos de winwdos forms\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeral\Desktop\proyectos de winwdos forms\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.AssemblyInfoInputs.cache
+C:\Users\yeral\Desktop\proyectos de winwdos forms\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.AssemblyInfo.cs
+C:\Users\yeral\Desktop\proyectos de winwdos forms\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\yeral\Desktop\proyectos de winwdos forms\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.dll
+C:\Users\yeral\Desktop\proyectos de winwdos forms\my Calculadora\obj\Debug\net6.0-windows\refint\my Calculadora.dll
+C:\Users\yeral\Desktop\proyectos de winwdos forms\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.pdb
+C:\Users\yeral\Desktop\proyectos de winwdos forms\my Calculadora\obj\Debug\net6.0-windows\my Calculadora.genruntimeconfig.cache
+C:\Users\yeral\Desktop\proyectos de winwdos forms\my Calculadora\obj\Debug\net6.0-windows\ref\my Calculadora.dll
